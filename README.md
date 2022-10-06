@@ -3,7 +3,7 @@
     - instaliran lokalni server npr. xampp
     - instaliran phpadminpanel (mysql) (phpmyadmin dolazi predinstaliran sa xampp-om)
     
-2. Pokrenuti komandu: git clone https://github.com/Nebra98/Melody_1 , ili Download ZIP
+2. Pokrenuti komandu: git clone https://github.com/pinjuhm/Melody , ili Download ZIP
     
 3. Nakon što ste preuzeli datoteku, potrebno je da se navigirate u nju preko terminala ili cmd-a
  
